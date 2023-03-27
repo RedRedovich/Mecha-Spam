@@ -8,3 +8,7 @@ Mecha spam for telegram
 | ``` Version ``` |1.0.0|
 | ``` Data ``` |27.03.2023|
 | ``` CopyRight ``` |[Redpiar](https://t.me/Redpiar)|
+
+> instruction
+
+1. Read the [LICENSE](https://t.me/Redpiar)
