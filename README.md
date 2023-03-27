@@ -11,4 +11,4 @@ Mecha spam for telegram
 
 > instruction
 
-1. Read the [LICENSE](https://t.me/Redpiar)
+1. Read the [LICENSE](https://github.com/RedRedovich/Mecha-Spam/blob/main/LICENSE)
