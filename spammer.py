@@ -62,7 +62,7 @@ class tg:
 		api_hash = acc_load[1]
 		phone = acc_load[self.accounts]
 
-		app = Client(phone, api_id=api_id, api_hash=api_hash)
+		app = Client(f"{dirname}/accounts_files/{phone}", api_id=api_id, api_hash=api_hash)
 		app.connect()
 
 		try:
@@ -121,7 +121,7 @@ class tg:
 				self.accounts = 2
 				phone = acc_load[self.accounts]
 
-			app = Client(phone, api_id=api_id, api_hash=api_hash)
+			app = Client(f"{dirname}/accounts_files/{phone}", api_id=api_id, api_hash=api_hash)
 			app.connect()
 
 			try:
